@@ -134,4 +134,40 @@ margin-top: 60px;
     width: 319px;
     
 }
+/* about section style */
+.about{
+    margin-top: 80px;
+    text-align: center;
+    width: 1320px;
+    height: 282px; 
+    background-color: ghostwhite;
+}
 
+.info-title{
+    width: 500px;
+    height: 170px;
+   text-align: center;
+    color: #070211;
+    font-size: 32px;
+   margin-left: 400px;
+}
+.description{
+    color: #F00;
+}
+
+.primary{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 20px;
+   
+}
+.btn-primary{
+ background-color: #F00;   
+font-size: 20px;
+font-weight: 700;
+border: 0px;
+color: #FFF;
+border-radius: 5px;
+width: 140px;
+height: 45px;
+}
