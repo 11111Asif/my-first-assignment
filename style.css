@@ -251,3 +251,56 @@ padding: 5px;
 height: 140px;
 margin-left: 10px;
 }
+/* holiday section style */
+.holiday{
+    background-image: url("Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.banner{
+    width: 1320px;
+    height: 700px;
+    margin-top: 80px;
+}
+.banner-greeting{
+    color: #070211;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+/* width: 263px;
+height: 30px;
+text-align: center; */
+
+}
+.banner-title{
+    color: #070211;
+font-size: 72px;
+font-weight: 900;
+}
+.sale{
+    color: #F00;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+}
+.amet{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+width: 968px;
+margin-left: 200px;
+margin-right: 100px;
+
+}
+.bottum{
+   
+}
+.gift{
+    text-align: left;
+    height: 350px;
+    width: 450px;
+    margin-right: 800px;
+    margin-top: 150px;
+}
